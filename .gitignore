@@ -1,0 +1,6 @@
+.idea/
+.scannerwork/
+*.iml
+target/
+*/target/
+*/*/target/
