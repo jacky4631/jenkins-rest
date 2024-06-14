@@ -27,9 +27,9 @@ import com.cdancy.jenkins.rest.parsers.RequestStatusParser;
 import org.jclouds.Fallbacks;
 import org.jclouds.rest.annotations.*;
 
-import javax.inject.Named;
-import javax.ws.rs.*;
-import javax.ws.rs.core.MediaType;
+import jakarta.inject.Named;
+import jakarta.ws.rs.*;
+import jakarta.ws.rs.core.MediaType;
 
 /**
  * The UserApi.

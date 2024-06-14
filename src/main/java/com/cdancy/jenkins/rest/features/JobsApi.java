@@ -29,9 +29,9 @@ import org.jclouds.Fallbacks;
 import org.jclouds.javax.annotation.Nullable;
 import org.jclouds.rest.annotations.*;
 
-import javax.inject.Named;
-import javax.ws.rs.*;
-import javax.ws.rs.core.MediaType;
+import jakarta.inject.Named;
+import jakarta.ws.rs.*;
+import jakarta.ws.rs.core.MediaType;
 import java.io.InputStream;
 import java.util.List;
 import java.util.Map;

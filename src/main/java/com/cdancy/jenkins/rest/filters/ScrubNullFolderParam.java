@@ -21,7 +21,7 @@ import org.jclouds.http.HttpException;
 import org.jclouds.http.HttpRequest;
 import org.jclouds.http.HttpRequestFilter;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 import static com.cdancy.jenkins.rest.JenkinsConstants.OPTIONAL_FOLDER_PATH_PARAM;
 

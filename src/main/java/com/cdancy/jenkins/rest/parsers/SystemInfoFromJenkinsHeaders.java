@@ -21,7 +21,7 @@ import com.cdancy.jenkins.rest.domain.system.SystemInfo;
 import com.google.common.base.Function;
 import org.jclouds.http.HttpResponse;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 /**
  * Created by dancc on 3/11/16.

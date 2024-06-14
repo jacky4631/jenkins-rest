@@ -22,8 +22,8 @@ import com.google.common.base.Function;
 import org.jclouds.http.HttpResponse;
 import org.jclouds.util.Strings2;
 
-import javax.inject.Singleton;
-import javax.ws.rs.core.HttpHeaders;
+import jakarta.inject.Singleton;
+import jakarta.ws.rs.core.HttpHeaders;
 import java.io.IOException;
 import java.util.Collection;
 

@@ -23,7 +23,7 @@ import com.google.common.base.Function;
 import com.google.common.collect.Lists;
 import org.jclouds.http.HttpResponse;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

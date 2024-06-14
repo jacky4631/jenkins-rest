@@ -13,10 +13,10 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <jcloudsVersion>2.5.0</jcloudsVersion>
-        <autoValueVersion>1.10.4</autoValueVersion>
+        <jcloudsVersion>2.6.0</jcloudsVersion>
+        <autoValueVersion>1.11.0</autoValueVersion>
         <autoServiceVersion>1.1.1</autoServiceVersion>
-        <guiceVersion>5.1.0</guiceVersion>
+        <guiceVersion>7.0.0</guiceVersion>
     </properties>
 
     <dependencies>
@@ -112,6 +112,11 @@
             <scope>test</scope>
         </dependency>
 
+<!--        <dependency>-->
+<!--            <groupId>com.google.code.gson</groupId>-->
+<!--            <artifactId>gson</artifactId>-->
+<!--            <version>2.10.1</version>-->
+<!--        </dependency>-->
     </dependencies>
 
 

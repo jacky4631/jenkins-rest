@@ -21,7 +21,7 @@ import com.cdancy.jenkins.rest.domain.common.RequestStatus;
 import com.google.common.base.Function;
 import org.jclouds.http.HttpResponse;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 
 /**
  * Turn a valid response, but one that has no body, into a RequestStatus.

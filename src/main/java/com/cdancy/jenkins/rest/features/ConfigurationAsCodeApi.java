@@ -23,9 +23,9 @@ import com.cdancy.jenkins.rest.filters.JenkinsAuthenticationFilter;
 import com.cdancy.jenkins.rest.parsers.RequestStatusParser;
 import org.jclouds.rest.annotations.*;
 
-import javax.inject.Named;
-import javax.ws.rs.POST;
-import javax.ws.rs.Path;
+import jakarta.inject.Named;
+import jakarta.ws.rs.POST;
+import jakarta.ws.rs.Path;
 
 @RequestFilters(JenkinsAuthenticationFilter.class)
 @Path("/configuration-as-code")

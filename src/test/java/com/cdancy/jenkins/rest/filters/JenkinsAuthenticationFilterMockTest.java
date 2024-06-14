@@ -27,7 +27,7 @@ import okhttp3.mockwebserver.MockWebServer;
 import org.jclouds.http.HttpRequest;
 import org.testng.annotations.Test;
 
-import javax.ws.rs.core.MediaType;
+import jakarta.ws.rs.core.MediaType;
 
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;

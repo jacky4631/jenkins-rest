@@ -23,7 +23,7 @@ import com.google.common.base.Function;
 import com.google.common.io.CharStreams;
 import org.jclouds.http.HttpResponse;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 

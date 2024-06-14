@@ -21,7 +21,7 @@ import org.jclouds.http.HttpRequest;
 import org.jclouds.http.HttpRequest.Builder;
 import org.jclouds.rest.Binder;
 
-import javax.inject.Singleton;
+import jakarta.inject.Singleton;
 import java.util.List;
 import java.util.Map;
 
